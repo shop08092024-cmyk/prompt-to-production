@@ -1,0 +1,16 @@
+complaint_id,category,priority,reason,flag
+PM-202401,Pothole,Standard,Classified as Pothole because description mentions 'pothole'. Priority set to Standard as no immediate hazards were identified.,
+PM-202402,Pothole,Urgent,Classified as Pothole because description mentions 'pothole'. Priority set to Urgent due to keyword 'child'.,
+PM-202406,Flooding,Standard,Classified as Flooding because description mentions 'flooded'. Priority set to Standard as no immediate hazards were identified.,
+PM-202408,Flooding,Standard,Classified as Flooding because description mentions 'flooded'. Priority set to Standard as no immediate hazards were identified.,
+PM-202410,Streetlight,Standard,Classified as Streetlight because description mentions 'streetlights'. Priority set to Standard as no immediate hazards were identified.,
+PM-202411,Streetlight,Urgent,Classified as Streetlight because description mentions 'streetlight'. Priority set to Urgent due to keyword 'hazard'.,
+PM-202413,Waste,Standard,Classified as Waste because description mentions 'garbage'. Priority set to Standard as no immediate hazards were identified.,
+PM-202418,Noise,Standard,Classified as Noise because description mentions 'music'. Priority set to Standard as no immediate hazards were identified.,
+PM-202419,Road Damage,Standard,Classified as Road Damage because description mentions 'road surface'. Priority set to Standard as no immediate hazards were identified.,
+PM-202420,Other,Urgent,Category could not be determined. Priority set to Urgent due to keyword 'injury'.,NEEDS_REVIEW
+PM-202427,Flooding,Standard,Classified as Flooding because description mentions 'floods'. Priority set to Standard as no immediate hazards were identified.,
+PM-202428,Waste,Standard,Classified as Waste because description mentions 'dead animal'. Priority set to Standard as no immediate hazards were identified.,
+PM-202430,Heritage Damage,Standard,Classified as Heritage Damage because description mentions 'heritage'. Priority set to Standard as no immediate hazards were identified.,
+PM-202433,Waste,Standard,Classified as Waste because description mentions 'waste'. Priority set to Standard as no immediate hazards were identified.,
+PM-202446,Road Damage,Urgent,Classified as Road Damage because description mentions 'footpath'. Priority set to Urgent due to keyword 'fell'.,

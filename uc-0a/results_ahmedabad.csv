@@ -1,0 +1,16 @@
+complaint_id,category,priority,reason,flag
+AM-202401,Heat Hazard,Standard,Classified as Heat Hazard because description mentions 'melting'. Priority set to Standard as no immediate hazards were identified.,
+AM-202402,Heat Hazard,Standard,Classified as Heat Hazard because description mentions 'temperatures'. Priority set to Standard as no immediate hazards were identified.,
+AM-202405,Waste,Urgent,Classified as Waste because description mentions 'dead'. Priority set to Urgent due to keyword 'fall'.,
+AM-202406,Other,Standard,Category could not be determined from the description.,NEEDS_REVIEW
+AM-202407,Road Damage,Urgent,Classified as Road Damage because description mentions 'paving'. Priority set to Urgent due to keyword 'child'.,
+AM-202410,Pothole,Standard,Classified as Pothole because description mentions 'pothole'. Priority set to Standard as no immediate hazards were identified.,
+AM-202414,Streetlight,Standard,Classified as Streetlight because description mentions 'unlit'. Priority set to Standard as no immediate hazards were identified.,
+AM-202417,Waste,Standard,Classified as Waste because description mentions 'waste'. Priority set to Standard as no immediate hazards were identified.,
+AM-202421,Noise,Standard,Classified as Noise because description mentions 'music'. Priority set to Standard as no immediate hazards were identified.,
+AM-202424,Heat Hazard,Standard,Classified as Heat Hazard because description mentions 'surface bubbling'. Priority set to Standard as no immediate hazards were identified.,
+AM-202429,Heat Hazard,Standard,Classified as Heat Hazard because description mentions 'temperature'. Priority set to Standard as no immediate hazards were identified.,
+AM-202431,Heritage Damage,Standard,Classified as Heritage Damage because description mentions 'heritage'. Priority set to Standard as no immediate hazards were identified.,
+AM-202435,Heat Hazard,Standard,Classified as Heat Hazard because description mentions 'heat'. Priority set to Standard as no immediate hazards were identified.,
+AM-202444,Waste,Standard,Classified as Waste because description mentions 'waste'. Priority set to Standard as no immediate hazards were identified.,
+AM-202445,Other,Standard,Category could not be determined from the description.,NEEDS_REVIEW
